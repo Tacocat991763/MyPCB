@@ -19,7 +19,7 @@
 | [MPU6050](https://www.alibaba.com/product-detail/GY-521-MPU-6050-Module-Triaxial_1601115321765.html?spm=a2756.trade-carp.valid-supplier.2.3c613192EyP2rU) | Gyroscope | 1 | $1.09 | $1.09 | [Alibaba](https://www.alibaba.com/product-detail/GY-521-MPU-6050-Module-Triaxial_1601115321765.html?spm=a2756.trade-carp.valid-supplier.2.3c613192EyP2rU) |
 | [Environment Sensor](https://www.alibaba.com/product-detail/Hot-Sell-Original-DHT-11-Digital_62344257902.html?spm=a2700.prosearch.normal_offer.d_title.514167afkhYRVb&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=0cc16878539647278a5dcc9163e9e81f&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=0cc16878539647278a5dcc9163e9e81f) | Sensing humidity and temp | 1 | $0.54 | $0.54 | [Alibaba](https://www.alibaba.com/product-detail/Hot-Sell-Original-DHT-11-Digital_62344257902.html?spm=a2700.prosearch.normal_offer.d_title.514167afkhYRVb&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=0cc16878539647278a5dcc9163e9e81f&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=0cc16878539647278a5dcc9163e9e81f) |
 | **Parts subtotal** | — | — | — | **$13.02** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.02** | — |
+| **Tax & shipping** | — | — | — | **$14.00** | — |
+| **Total** | — | — | — | **$27.02** | — |
 
-$16.98 left of the tier's funding.
+$2.98 left of the tier's funding.
