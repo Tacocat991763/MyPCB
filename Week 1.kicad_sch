@@ -2099,16 +2099,6 @@
 		)
 		(uuid "fcbdbd42-0377-4f13-a684-dc9a953b3b7f")
 	)
-	(text "SCL"
-		(exclude_from_sim no)
-		(at 218.44 120.142 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c6c2b4d3-779e-4f02-8769-0c0d1ead3288")
-	)
 	(wire
 		(pts
 			(xy 224.79 163.83) (xy 224.79 161.29)
@@ -2201,16 +2191,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 163.83) (xy 226.06 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3693b0e8-3523-4ea4-904b-f83e6747e4a6")
-	)
-	(wire
-		(pts
 			(xy 220.98 146.05) (xy 226.06 146.05)
 		)
 		(stroke
@@ -2221,6 +2201,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 54.61) (xy 217.17 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5491ba93-df71-4a66-97df-d7fe9edcaed3")
+	)
+	(wire
+		(pts
 			(xy 250.19 120.65) (xy 256.54 120.65)
 		)
 		(stroke
@@ -2228,6 +2218,16 @@
 			(type default)
 		)
 		(uuid "5e082438-a3a7-4c67-b673-1a72b62bad10")
+	)
+	(wire
+		(pts
+			(xy 210.82 66.04) (xy 217.17 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66dd411b-dd74-4b90-af1c-2036df6c345e")
 	)
 	(wire
 		(pts
@@ -2321,6 +2321,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 50.8) (xy 217.17 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8d4195f-c7ab-4f40-84a8-d531a36bec26")
+	)
+	(wire
+		(pts
 			(xy 220.98 111.76) (xy 220.98 121.92)
 		)
 		(stroke
@@ -2328,6 +2338,16 @@
 			(type default)
 		)
 		(uuid "d3bad4d6-16d0-40bc-865a-152351d9a130")
+	)
+	(wire
+		(pts
+			(xy 210.82 58.42) (xy 217.17 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9cd7b11-9f89-4145-94b8-18b72057c9a0")
 	)
 	(wire
 		(pts
@@ -2341,6 +2361,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 62.23) (xy 217.17 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea1ff2de-0ebf-4f14-8da0-6fc7d4350c66")
+	)
+	(wire
+		(pts
 			(xy 223.52 111.76) (xy 223.52 114.3)
 		)
 		(stroke
@@ -2350,7 +2380,7 @@
 		(uuid "f24a7df1-7b7a-4635-bc9c-0bf14005db0e")
 	)
 	(label "SDA"
-		(at 217.17 121.92 90)
+		(at 215.9 118.11 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2368,6 +2398,16 @@
 			(justify left bottom)
 		)
 		(uuid "13ca0482-cde6-4fad-8524-a44c6eb94f4b")
+	)
+	(label "SCL"
+		(at 218.44 118.11 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "288460fa-3d23-430d-bfc7-fceabf856b80")
 	)
 	(label "DHT11 DATA"
 		(at 226.06 146.05 0)
@@ -2409,6 +2449,16 @@
 		)
 		(uuid "39c63dbf-21fd-4beb-a14b-709da7a12d88")
 	)
+	(label "GPIO 2"
+		(at 210.82 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "53a5c1db-4364-4117-9e62-94a434e4d4ff")
+	)
 	(label "GPIO 3"
 		(at 250.19 120.65 0)
 		(effects
@@ -2418,6 +2468,16 @@
 			(justify left bottom)
 		)
 		(uuid "5ed43f97-f6ab-4ec8-90a3-84295861f0bc")
+	)
+	(label "SCL"
+		(at 210.82 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "748c9353-d8ed-4d4b-b2f2-70834d7c813a")
 	)
 	(label "ESP32 C3"
 		(at 269.24 19.05 0)
@@ -2450,7 +2510,17 @@
 		(uuid "92e09482-06ab-4e45-bd61-4bfbafccd7a2")
 	)
 	(label "DHT11 DATA"
-		(at 226.06 163.83 0)
+		(at 210.82 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7594838-c364-44e8-918c-9b18f78b19d7")
+	)
+	(label "DHT11 DATA"
+		(at 224.79 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2460,7 +2530,7 @@
 		(uuid "b96cd0bd-9d38-4e55-9fda-698459d3ab31")
 	)
 	(label "SDA"
-		(at 265.43 151.13 0)
+		(at 265.43 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2469,8 +2539,18 @@
 		)
 		(uuid "ca0a4090-c76a-49ac-be55-a1dc652ac690")
 	)
+	(label "SDA"
+		(at 210.82 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "df1c4654-d719-4bd2-9791-a7e65b1ec056")
+	)
 	(label "SCL"
-		(at 265.43 148.59 0)
+		(at 265.43 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2478,6 +2558,16 @@
 			(justify left bottom)
 		)
 		(uuid "e120d474-3132-47a7-b892-76ec8b07cf79")
+	)
+	(label "GPIO 3"
+		(at 210.82 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ebc47fb5-31ad-41d8-94c6-66a4089d8441")
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Pin")
